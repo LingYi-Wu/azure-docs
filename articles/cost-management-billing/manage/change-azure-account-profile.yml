@@ -67,7 +67,7 @@ procedureSection:
           > [!IMPORTANT]
           > Some accounts require additional verification before their sold-to can be updated. If your account requires manual approval, you would be asked to contact Azure support.
   - title: |
-      Update an MCA billing account address
+      Update an MCA billing account Bill-to address
     summary: |
       Follow these steps:
     steps:
